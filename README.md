@@ -1,2 +1,0 @@
-# PreS
-Our Group Project
